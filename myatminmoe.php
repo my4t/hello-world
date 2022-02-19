@@ -1,4 +1,4 @@
-<!-- Myat Min Moe -->
+
 
 <?php
 echo '<body style="background-color:#000000;">';
